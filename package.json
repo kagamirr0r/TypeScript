@@ -19,5 +19,8 @@
   "homepage": "https://github.com/kagamirr0r/TypeScript#readme",
   "dependencies": {
     "typescript": "^4.1.2"
+  },
+  "devDependencies": {
+    "ts-node": "^9.0.0"
   }
 }
