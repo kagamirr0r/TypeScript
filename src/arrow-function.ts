@@ -1,0 +1,4 @@
+export {}
+const bmi = (weight: number, height: number): number => weight / (height * height);
+
+console.log(bmi(1.65,52));
